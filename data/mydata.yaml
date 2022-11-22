@@ -1,0 +1,4 @@
+train: D:/Model/dataset/raw/train
+val: D:/Model/dataset/raw/val
+nc: 1 
+names: ['License Plate'] 
